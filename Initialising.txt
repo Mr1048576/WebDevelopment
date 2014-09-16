@@ -1,0 +1,1 @@
+Although the readme has actually initialised stuff, I'm calling this an initializer too, sue me.
